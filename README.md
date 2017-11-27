@@ -6,13 +6,23 @@ Identifica los elementos de navegación en los siguientes sites:
 
 ## Breather
 
-1. Realizamos un repositorio en el GitHub
+1. Navegación GLOBAL
 
-2. Añadimos la estructura al HTML.
+  ![](assets/images/breather/global.jpg)
 
-3. Añadimos la estructura al CSS, para darle estilo al HTML.
+  ![](assets/images/breather/blobal2.jpg)
 
-4. Añadimos los detalles faltantes.
+2. Navegación LOCAL
+
+3. Navegación FACETADA
+
+  ![](assets/images/breather/facetada.jpg)
+
+4. Navegación FILTRADA
+
+  ![](assets/images/breather/filtrada.jpg)
+
+  ![](assets/images/breather/filtrada2.jpg)
 
 ## GitHub
 
