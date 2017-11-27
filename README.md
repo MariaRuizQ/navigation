@@ -54,6 +54,24 @@ Identifica los elementos de navegación en los siguientes sites:
 
 ## Medium
 
-Maquetar, lo más identico posible la estructura de la página web dad.
-Realizamos una rélica de la página dad.
-![Freelancer Website](assets/images/breather/facetada.jpg)
+1. Navegación GLOBAL
+
+  ![](assets/images/medium/global.jpg)
+
+2. Navegación LOCAL
+
+  ![](assets/images/medium/local.jpg)
+
+3. Navegación FACETADA
+
+  ![](assets/images/medium/facetada.jpg)
+
+  ![](assets/images/medium/facetada2.jpg)
+
+4. Navegación FILTRADA
+
+5. Navegación CONTEXTUAL
+
+  ![](assets/images/medium/contextual.jpg)
+
+  ![](assets/images/medium/contextual2.jpg)
