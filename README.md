@@ -32,25 +32,25 @@ Identifica los elementos de navegación en los siguientes sites:
 
 1. Navegación GLOBAL
 
-  ![](assets/images/breather/global.jpg)
+  ![](assets/images/github/global.jpg)
 
 2. Navegación LOCAL
 
-  ![](assets/images/breather/local.jpg)
+  ![](assets/images/github/local.jpg)
 
-  ![](assets/images/breather/local2.jpg)
+  ![](assets/images/github/local2.jpg)
 
-  ![](assets/images/breather/local3.jpg)
+  ![](assets/images/github/local3.jpg)
 
 3. Navegación FACETADA
 
-  ![](assets/images/breather/facetada.jpg)
+  ![](assets/images/github/facetada.jpg)
 
 4. Navegación FILTRADA
 
 5. Navegación CONTEXTUAL
 
-  ![](assets/images/breather/contextual.jpg)
+  ![](assets/images/github/contextual.jpg)
 
 ## Medium
 
